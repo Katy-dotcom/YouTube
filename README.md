@@ -31,6 +31,7 @@ Project has been created with:
 * localStorage
 * Youtube Data API https://developers.google.com/youtube/v3/docs
 * API proxy developed by @bergespablo
+* Firebase
 
 ## Setup
 To run this project, install it locally using npm:
@@ -47,6 +48,8 @@ $ npm start
 
 ## Preview
 You can watch short demo on https://www.youtube.com/watch?v=G9xGum6pAac
+
+You can try the app here: https://fir-944fc.firebaseapp.com/
 
 ![image](https://user-images.githubusercontent.com/76691416/156666407-34ff9038-fda6-48c1-b821-3220d453a81c.png)
 ![image](https://user-images.githubusercontent.com/76691416/156666770-beeafb75-f567-4584-b591-9d2193f9850d.png)
