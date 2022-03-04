@@ -31,7 +31,7 @@ Project has been created with:
 * localStorage
 * Youtube Data API https://developers.google.com/youtube/v3/docs
 * API proxy developed by @bergespablo
-* Firebase
+* Firebase hosting
 
 ## Setup
 To run this project, install it locally using npm:
