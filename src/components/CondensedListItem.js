@@ -87,7 +87,7 @@ const CondensedListItem = ({ condensedItem }) => {
               color="error"
               style={{ maxHeight: "40px", fontSize: "12px" }}
             >
-              Cargar videos
+              Show videos
             </Button>
           </Grid>
         </Grid>
