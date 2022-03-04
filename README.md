@@ -24,10 +24,13 @@ User can choose between light and dark theme.
 
 ## Technologies
 Project has been created with:
-* React js
-* MUI library 
+* React v17 / create-react-app v5.0  https://github.com/facebook/create-react-app
+* React Router v6
+* React Moment
+* MUI library v5
 * localStorage
-* Proxy developed by @bergespablo
+* Youtube Data API https://developers.google.com/youtube/v3/docs
+* API proxy developed by @bergespablo
 
 ## Setup
 To run this project, install it locally using npm:
@@ -41,7 +44,6 @@ $ npm start
 -useState
 -useEffect
 -useContext
--Router
 
 ## Preview
 You can watch short demo on https://www.youtube.com/watch?v=G9xGum6pAac
